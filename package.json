@@ -1,0 +1,32 @@
+{
+  "name": "level_me_up_scotty",
+  "version": "1.0.0",
+  "description": "the test and tutorial of levelmeupscotty",
+  "main": "all_you_base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtuoparis13/Level_me_up_Scotty.git"
+  },
+  "keywords": [
+    "nodejs",
+    "database"
+  ],
+  "author": "zhangtuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtuoparis13/Level_me_up_Scotty/issues"
+  },
+  "homepage": "https://github.com/zhangtuoparis13/Level_me_up_Scotty#readme",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-register": "^6.14.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-polyfill": "^6.13.0"
+  }
+}
